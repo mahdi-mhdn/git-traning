@@ -4,3 +4,4 @@ def nhhgv():
 class(god):
     def __init__(self,love):
         self.love=love
+print('i hate love')
